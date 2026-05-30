@@ -24,14 +24,14 @@ This repo lives inside an Obsidian vault, so files use `[[wikilinks]]` and rende
 
 ## Plan structure
 
-| Block         | Weeks   | Focus                                       |
-| ------------- | ------- | ------------------------------------------- |
-| Base          | 1 – 4   | Aerobic base, build weekly rhythm           |
-| Threshold     | 5 – 7   | Sustained faster work                       |
-| Recovery      | 8       | Step the load back, absorb                  |
-| Race specific | 9 – 13  | 10K-pace intervals, longer tempo            |
-| Sharpening    | 14 – 16 | Race-pace volume, intensity holds, load drops |
-| Taper         | Race week | Stay sharp, race fresh                    |
+| Block         | Weeks     | Focus                                         |
+| ------------- | --------- | --------------------------------------------- |
+| Base          | 1 – 4     | Aerobic base, build weekly rhythm             |
+| Threshold     | 5 – 7     | Sustained faster work                         |
+| Recovery      | 8         | Step the load back, absorb                    |
+| Race specific | 9 – 13    | 10K-pace intervals, longer tempo              |
+| Sharpening    | 14 – 16   | Race-pace volume, intensity holds, load drops |
+| Taper         | Race week | Stay sharp, race fresh                        |
 
 ## Weekly structure
 
