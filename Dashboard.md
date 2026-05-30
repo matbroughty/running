@@ -4,12 +4,13 @@
 
 ## Current metrics
 
-| Metric    | Current | Target               |
-| --------- | ------- | -------------------- |
-| Weight    | 92kg    | 84kg (stretch 82kg)  |
-| Parkrun   | TBD     | < 22:00              |
-| 10K       | ~53:00  | < 45:00              |
-| Long run  | 8km     | 16km                 |
+| Metric     | Current | Target               |
+| ---------- | ------- | -------------------- |
+| Weight     | 92kg    | 84kg (stretch 82kg)  |
+| Parkrun    | TBD     | < 22:00 (4:24/km)    |
+| 10K        | ~53:00  | < 45:00 (4:30/km)    |
+| Long run   | 8km     | 16km                 |
+| Race pace  | —       | 4:30 / km            |
 
 ## Race countdown
 
@@ -17,6 +18,7 @@
 - **Date:** Sunday 27 September 2026
 - **Plan:** [[Faversham-10K-2026]]
 - **Log:** [[Training-Log]]
+- **Workout library:** [[Faversham-10K-2026#Workout library]]
 
 ## Key checkpoints
 

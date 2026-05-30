@@ -12,9 +12,11 @@ Append-only log. Newest entries at the top of **Sessions**. Copy the template at
 
 ## Parkrun tracking
 
-| Date | Course | Time | Position | Avg pace | Weight | Notes |
-| ---- | ------ | ---- | -------- | -------- | ------ | ----- |
-|      |        |      |          |          |        |       |
+| Date | Course | Time | Position | Avg pace | Effort | Weight | Notes |
+| ---- | ------ | ---- | -------- | -------- | ------ | ------ | ----- |
+|      |        |      |          |          |        |        |       |
+
+Effort key: `easy` / `steady` / `hard` / `race-pace rehearsal` / `fast (PR attempt)` / `controlled`.
 
 ## Weight history
 
@@ -41,18 +43,30 @@ Append-only log. Newest entries at the top of **Sessions**. Copy the template at
 
 ## Session template
 
-Copy the block below for each new session and paste it at the top of **Sessions**.
+Copy the block below for each new session and paste it at the top of **Sessions**. Use the workout-type names from the [Workout library](Faversham-10K-2026.md#workout-library) so sessions can be grouped and reviewed later.
 
 ```
 ### YYYY-MM-DD — Session name
-- **Type:** HIIT / key / easy / tempo / parkrun / long run / hill / intervals
+- **Type:** easy / long run / strides / 400m reps / 800m reps / 1km reps (threshold) / 1km reps (race pace) / hills / ladder / descending / pyramid / mixed / speed broken / tempo / split tempo / parkrun / HIIT
 - **Planned:**
 - **Actual:**
 - **Distance:**
-- **Time:**
+- **Total time:**
 - **Average pace:**
+- **Splits / reps:**
 - **Weight (am):**
-- **How it felt (1–10):**
+- **RPE (1–10):**
+- **How it felt:**
 - **Heart rate avg / max:**
+- **Weather / conditions:**
 - **Notes:**
 ```
+
+**RPE scale** (Borg-style, simplified):
+- 1–3: very easy, recovery
+- 4–5: easy, conversational
+- 6: steady
+- 7: tempo / threshold
+- 8: hard (10K race pace)
+- 9: very hard (5K pace, intervals)
+- 10: all-out
