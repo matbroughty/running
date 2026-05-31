@@ -22,7 +22,7 @@ Effort key: `easy` / `steady` / `hard` / `race-pace rehearsal` / `fast (PR attem
 
 | Date         | Weight | Notes      |
 | ------------ | ------ | ---------- |
-| 31 May 2026  | 92.0kg | Plan start |
+| 31 May 2026  | 94.3kg | First weigh-in, pre 8 km kickoff run (14 st 12 lb) |
 
 ## Personal bests
 

@@ -20,7 +20,7 @@ This repo lives inside an Obsidian vault, so files use `[[wikilinks]]` and rende
 - **Distance:** 10 km
 - **Goal time:** sub-45:00 (4:30 / km)
 - **Plan length:** 17 weeks, starting Sunday 31 May 2026
-- **Starting weight:** 92 kg → target 84 kg (stretch 82 kg)
+- **Starting weight:** 94.3 kg → target 84 kg (stretch 82 kg)
 
 ## Plan structure
 

@@ -28,7 +28,7 @@
 | Metric    | Current | Target              |
 | --------- | ------- | ------------------- |
 | Height    | 180 cm  | —                   |
-| Weight    | 92 kg   | 84 kg (stretch 82)  |
+| Weight    | 94.3 kg | 84 kg (stretch 82)  |
 | 10K       | ~53:00  | < 45:00             |
 | Parkrun   | TBD     | < 22:00             |
 | Long run  | 8 km    | 16 km               |
@@ -42,7 +42,7 @@
 | Heaviest weight   | 87.6 kg |
 | 10K time          | ~45:00  |
 
-Returning to 2023 running weight needs about a 6 kg drop from today.
+Returning to 2023 running weight needs about an 8 kg drop from today.
 
 ---
 
@@ -96,7 +96,7 @@ Sunday morning, before food, after the bathroom.
 
 | Week     | Sunday       | Weight | Notes |
 | -------- | ------------ | ------ | ----- |
-| Start    | 31 May 2026  | 92.0   |       |
+| Start    | 31 May 2026  | 94.3   | First weigh-in, pre-kickoff 8 km run (14 st 12 lb) |
 | 1        | 7 Jun 2026   |        |       |
 | 2        | 14 Jun 2026  |        |       |
 | 3        | 21 Jun 2026  |        |       |
