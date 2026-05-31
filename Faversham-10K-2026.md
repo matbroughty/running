@@ -275,7 +275,7 @@ Reusable session definitions. Each week's plan references these by name.
 - [ ] Sunday weight ≤ 91.5 kg
 
 **Plan**
-- [ ] Sun 31 May — Kickoff long run: **8 km easy** @ 5:50–6:15/km
+- [x] Sun 31 May — Kickoff long run: **8 km easy** @ 5:50–6:15/km
 - [ ] Mon 1 Jun — HIIT class
 - [ ] Tue 2 Jun — Rest
 - [ ] Wed 3 Jun — **6 × 400 m** at 5K pace (~1:48), 200 m jog recovery + 1.5 km warm-up / cool-down
@@ -286,7 +286,7 @@ Reusable session definitions. Each week's plan references these by name.
 - [ ] Sun 7 Jun — Long run: **9 km** @ 5:45–6:15/km
 
 **Actuals**
-- Sun 31 May:
+- Sun 31 May: 8.1 km in 48:05 (5:56/km avg, last km 5:22), RPE 6–7
 - Mon 1 Jun:
 - Wed 3 Jun:
 - Fri 5 Jun:

@@ -8,6 +8,21 @@ Append-only log. Newest entries at the top of **Sessions**. Copy the template at
 
 <!-- Add new sessions here. Newest first. -->
 
+### 2026-05-31 — Kickoff long run (8 km easy)
+- **Type:** long run / easy
+- **Planned:** 8 km easy @ 5:50–6:15/km
+- **Actual:** 8.1 km in 48:05
+- **Distance:** 8.1 km
+- **Total time:** 48:05
+- **Average pace:** 5:56/km
+- **Splits / reps:** Last km 5:22 (steady-pace zone)
+- **Weight (am):** 94.3 kg (14 st 12 lb)
+- **RPE (1–10):** 6–7
+- **How it felt:**
+- **Heart rate avg / max:**
+- **Weather / conditions:**
+- **Notes:** First session of the plan. Closing km dropped below the easy-pace floor of 5:50/km.
+
 ---
 
 ## Parkrun tracking
