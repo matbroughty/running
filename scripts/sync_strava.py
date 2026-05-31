@@ -733,11 +733,13 @@ def main() -> int:
     last_synced_at_str = state.get("last_synced_at")
     if last_synced_at_str:
         last_synced_at = datetime.fromisoformat(last_synced_at_str)
+        fetch_after = last_synced_at - timedelta(hours=FETCH_BUFFER_HOURS)
     else:
-        last_synced_at = datetime.combine(
-            PLAN_START, datetime.min.time(), tzinfo=timezone.utc
-        )
-    fetch_after = last_synced_at - timedelta(hours=FETCH_BUFFER_HOURS)
+        # First run with empty state: look back 14 days from now so we catch
+        # recent activities. We deliberately don't anchor to PLAN_START here
+        # (which is 2026-05-31) because that breaks testing the pipeline in
+        # any real-world time before May 2026.
+        fetch_after = datetime.now(timezone.utc) - timedelta(days=14)
     log.info("Fetching activities after %s", fetch_after.isoformat())
 
     strava = Strava()
