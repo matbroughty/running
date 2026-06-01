@@ -8,6 +8,23 @@ Append-only log. Newest entries at the top of **Sessions**. Copy the template at
 
 <!-- Add new sessions here. Newest first. -->
 
+### 2026-06-01 — Lunch HIIT
+- **Type:** HIIT
+- **Planned:** HIIT class
+- **Actual:** 0.00 km in 1:05:43
+- **Distance:** 0.00 km
+- **Total time:** 1:05:43
+- **Average pace:** —
+- **Splits / reps:** 
+- **Weight (am):** 93.8 kg
+- **RPE (1–10):** 6
+- **How it felt:**
+- **Heart rate avg / max:** 123 / 167
+- **Weather / conditions:**
+- **Notes:** 
+- **Strava:** https://www.strava.com/activities/18740998098
+
+
 ### 2026-05-31 — Kickoff long run (8 km easy)
 - **Type:** long run / easy
 - **Planned:** 8 km easy @ 5:50–6:15/km
@@ -37,6 +54,7 @@ Effort key: `easy` / `steady` / `hard` / `race-pace rehearsal` / `fast (PR attem
 
 | Date         | Weight | Notes      |
 | ------------ | ------ | ---------- |
+| 1 Jun 2026  | 93.8kg | (auto from Strava) |
 | 31 May 2026  | 94.3kg | First weigh-in, pre 8 km kickoff run (14 st 12 lb) |
 
 ## Personal bests
