@@ -8,6 +8,23 @@ Append-only log. Newest entries at the top of **Sessions**. Copy the template at
 
 <!-- Add new sessions here. Newest first. -->
 
+### 2026-06-03 — Evening Strides
+- **Type:** easy
+- **Planned:** **6 × 400 m** at 5K pace (~1:48), 200 m jog recovery + 1.5 km warm-up / cool-down
+- **Actual:** 6.44 km in 46:39
+- **Distance:** 6.44 km
+- **Total time:** 46:39
+- **Average pace:** 7:15/km
+- **Splits / reps:** 6:34/km, 6:40/km, 6:33/km, 8:28/km, 7:49/km, 7:49/km, 5:58/km
+- **Weight (am):** 92.0 kg
+- **RPE (1–10):** 
+- **How it felt:**
+- **Heart rate avg / max:** 142 / 168
+- **Weather / conditions:**
+- **Notes:** 6 × 400 m strides 200 m walk recovery + 1.5 km warm-up / cool-down w92.00
+- **Strava:** https://www.strava.com/activities/18773482297
+
+
 ### 2026-06-01 — Lunch HIIT
 - **Type:** HIIT
 - **Planned:** HIIT class
@@ -54,6 +71,7 @@ Effort key: `easy` / `steady` / `hard` / `race-pace rehearsal` / `fast (PR attem
 
 | Date         | Weight | Notes      |
 | ------------ | ------ | ---------- |
+| 3 Jun 2026  | 92.0kg | (auto from Strava) |
 | 1 Jun 2026  | 93.8kg | (auto from Strava) |
 | 31 May 2026  | 94.3kg | First weigh-in, pre 8 km kickoff run (14 st 12 lb) |
 

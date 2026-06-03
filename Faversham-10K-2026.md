@@ -28,7 +28,7 @@
 | Metric    | Current | Target              |
 | --------- | ------- | ------------------- |
 | Height    | 180 cm  | —                   |
-| Weight    | 93.8 kg | 84 kg (stretch 82)  |
+| Weight    | 92.0 kg | 84 kg (stretch 82)  |
 | 10K       | ~53:00  | < 45:00             |
 | Parkrun   | TBD     | < 22:00             |
 | Long run  | 8 km    | 16 km               |
@@ -278,7 +278,7 @@ Reusable session definitions. Each week's plan references these by name.
 - [x] Sun 31 May — Kickoff long run: **8 km easy** @ 5:50–6:15/km
 - [x] Mon 1 Jun — HIIT class
 - [ ] Tue 2 Jun — Rest
-- [ ] Wed 3 Jun — **6 × 400 m** at 5K pace (~1:48), 200 m jog recovery + 1.5 km warm-up / cool-down
+- [x] Wed 3 Jun — **6 × 400 m** at 5K pace (~1:48), 200 m jog recovery + 1.5 km warm-up / cool-down
   *Why: Introduce structured speed without overload — short reps, full recovery.*
 - [ ] Thu 4 Jun — Rest
 - [ ] Fri 5 Jun — **Easy 5 km + 4 strides** @ 5:50/km, strides at end
@@ -288,7 +288,7 @@ Reusable session definitions. Each week's plan references these by name.
 **Actuals**
 - Sun 31 May: 8.1 km in 48:05 (5:56/km avg, last km 5:22), RPE 6–7
 - Mon 1 Jun: 0.00 km in 1:05:43 (— avg), RPE 6
-- Wed 3 Jun:
+- Wed 3 Jun: 6.44 km in 46:39 (7:15/km avg)
 - Fri 5 Jun:
 - Sat 6 Jun (Parkrun):
 - Sun 7 Jun:

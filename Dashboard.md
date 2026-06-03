@@ -6,7 +6,7 @@
 
 | Metric     | Current | Target               |
 | ---------- | ------- | -------------------- |
-| Weight     | 93.8kg  | 84kg (stretch 82kg)  |
+| Weight     | 92.0kg  | 84kg (stretch 82kg)  |
 | Parkrun    | TBD     | < 22:00 (4:24/km)    |
 | 10K        | ~53:00  | < 45:00 (4:30/km)    |
 | Long run   | 8km     | 16km                 |
