@@ -8,6 +8,40 @@ Append-only log. Newest entries at the top of **Sessions**. Copy the template at
 
 <!-- Add new sessions here. Newest first. -->
 
+### 2026-06-13 — Afternoon Run
+- **Type:** easy
+- **Planned:** **Parkrun: steady**, slightly harder than easy
+- **Actual:** 5.19 km in 31:26
+- **Distance:** 5.19 km
+- **Total time:** 31:26
+- **Average pace:** 6:04/km
+- **Splits / reps:** 6:04/km, 6:04/km, 6:20/km, 6:10/km, 5:48/km, 5:31/km
+- **Weight (am):** 
+- **RPE (1–10):** 
+- **How it felt:**
+- **Heart rate avg / max:** 150 / 179
+- **Weather / conditions:**
+- **Notes:** slow and easy.
+- **Strava:** https://www.strava.com/activities/18903733849
+
+
+### 2026-06-10 — Evening HIIT
+- **Type:** HIIT
+- **Planned:** **Pyramid:** 200 / 400 / 600 / 400 / 200 at 5K pace, equal-distance jog recovery + warm-up / cool-down
+- **Actual:** 0.00 km in 1:09:38
+- **Distance:** 0.00 km
+- **Total time:** 1:09:38
+- **Average pace:** —
+- **Splits / reps:** 
+- **Weight (am):** 
+- **RPE (1–10):** 
+- **How it felt:**
+- **Heart rate avg / max:** 128 / 175
+- **Weather / conditions:**
+- **Notes:** damp HiiT class after some kinda virus/overdoing it weekend!
+- **Strava:** https://www.strava.com/activities/18869217377
+
+
 ### 2026-06-03 — Evening Strides
 - **Type:** easy
 - **Planned:** **6 × 400 m** at 5K pace (~1:48), 200 m jog recovery + 1.5 km warm-up / cool-down
