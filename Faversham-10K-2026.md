@@ -316,10 +316,11 @@ Reusable session definitions. Each week's plan references these by name.
 - [ ] Mon 8 Jun — HIIT class
 - [ ] Tue 9 Jun — Rest
 - [ ] Wed 10 Jun — **Pyramid:** 200 / 400 / 600 / 400 / 200 at 5K pace, equal-distance jog recovery + warm-up / cool-down
+  - *Unplanned: 0.00 km in 1:09:38 (— avg)*
   *Why: Gentle introduction to varied-shape sessions. Builds confidence the back half mirrors the front.*
 - [ ] Thu 11 Jun — Rest
 - [ ] Fri 12 Jun — **Easy 6 km + 4 strides** @ 5:50/km
-- [ ] Sat 13 Jun — **Parkrun: steady**, slightly harder than easy
+- [x] Sat 13 Jun — **Parkrun: steady**, slightly harder than easy
 - [ ] Sun 14 Jun — Long run: **10 km** @ 5:45–6:15/km
 
 **Actuals**
